@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="user_name">User name</string>
+    <string name="remember_me">Remember me</string>
+    <string name="login">LOGIN</string>
+    <string name="not_a_member">Not a member?</string>
+    <string name="sign_up_now">Sign up now</string>
+    <string name="password">Password</string>
+</resources>

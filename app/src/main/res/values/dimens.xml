@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_end">10dp</dimen>
+    <dimen name="tsz">20sp</dimen>
+    <dimen name="padding_start">5dp</dimen>
+    <dimen name="padding_end">1dp</dimen>
+
+</resources>
